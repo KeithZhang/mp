@@ -1,0 +1,26 @@
+{
+  "name": "mpvue-demo",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "keith <keithzhf@gmail.com>",
+  "homepage": "https://github.com/KeithZhang/mp#readme",
+  "license": "ISC",
+  "main": "lib/mpvue-demo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithZhang/mp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/KeithZhang/mp/issues"
+  }
+}

@@ -1,0 +1,16 @@
+0 silly argv { _: [ 'create' ],
+0 silly argv   lernaVersion: '3.4.3',
+0 silly argv   '$0': 'lerna',
+0 silly argv   name: 'mpvue' }
+1 notice cli v3.4.3
+2 verbose rootPath /Users/keith/project/mp
+3 error Error: canceled
+3 error     at Interface.<anonymous> (/Users/keith/.tnvm/versions/node/v9.11.2/lib/node_modules/lerna/node_modules/read/lib/read.js:66:13)
+3 error     at Interface.emit (events.js:180:13)
+3 error     at Interface._ttyWrite (readline.js:783:16)
+3 error     at ReadStream.onkeypress (readline.js:163:10)
+3 error     at ReadStream.emit (events.js:180:13)
+3 error     at emitKeys (internal/readline.js:422:14)
+3 error     at emitKeys.next (<anonymous>)
+3 error     at ReadStream.onData (readline.js:1019:36)
+3 error     at ReadStream.emit (events.js:180:13)
